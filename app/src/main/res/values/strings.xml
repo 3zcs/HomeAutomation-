@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Home Auto</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_control">control</string>
+    <string name="lamp">lamp</string>
+    <string name="fan">fan</string>
+    <string name="out">out</string>
+    <string name="disc">disconnecting</string>
+</resources>
